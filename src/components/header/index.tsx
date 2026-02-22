@@ -52,14 +52,14 @@ export function Header() {
         <Link to="/" className="flex gap-2 items-center">
           <div className="h-10 w-10 bg-cover" title="logo" style={{ backgroundImage: "url(/info.jpg)" }} />
           <span className="text-2xl font-brand line-height-none!">
-         <p>Netlivy </p>
+         <p>ᑎETᒪIᐯY </p>
             <p className="mt--1">
               <span className="color-primary-6">ʏᴀɴɢɪʟɪᴋʟᴀʀ</span>
               <span></span>
             </p>
           </span>
         </Link>
-       
+
       </span>
       <span className="justify-self-center">
         <span className="hidden md:(inline-block)">
